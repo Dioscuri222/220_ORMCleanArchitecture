@@ -9,3 +9,7 @@
 
 # DELETE
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79dd5cc0-c508-4319-b448-d3fb9a379327" />
+
+
+# GET (Setelah Delete)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/24af793d-1fbf-40de-8835-b7ae3251e687" />
